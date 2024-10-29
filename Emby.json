@@ -1,0 +1,118 @@
+{
+  "name": "Nekoda icons",
+  "description": "Only for Nekoda",
+  "icons": [
+    {
+      "name": "Moon.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Moon_175.png"
+    },
+    {
+      "name": "1111.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/1111_175.png"
+    },
+    {
+      "name": "apop.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/apop_175.png"
+    },
+    {
+      "name": "AWA.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWA_175.png"
+    },
+    {
+      "name": "AWASF",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF_175.png"
+    },
+    {
+      "name": "CC",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/CC_175"
+    },
+    {
+      "name": "DV",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/DV_175.png"
+    },
+    {
+      "name": "EmbyPlus.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/EmbyPlus_175.png"
+    },
+    {
+      "name": "Feiyue.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Feiyue_175.png"
+    },
+    {
+      "name": "Feiyue_Milkway.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Feiyue_Milkway_175.png"
+    },
+    {
+      "name": "Feiyue_Rainbow.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Feiyue_Rainbow_175.png"
+    },
+    {
+      "name": "HKA.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/HKA_175.png"
+    },
+    {
+      "name": "Jianshouqing.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Jianshouqing_175.png"
+    },
+    {
+      "name": "laoda.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/laoda_175.png"
+    },
+    {
+      "name": "Levilde_Luminia.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Levilde_Luminia_175.png"
+    },
+    {
+      "name": "Lily.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Lily_175.png"
+    },
+    {
+      "name": "Lyrebird.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Lyrebird_175.png"
+    },
+    {
+      "name": "Misty.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Misty_175.png"
+    },
+    {
+      "name": "Nijigen.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Nijigen_175.png"
+    },
+    {
+      "name": "Ntrrr.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Ntrrr_175.png"
+    },
+    {
+      "name": "Peach.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Peach_175.png"
+    },
+    {
+      "name": "Pilipili.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Pilipili_175.png"
+    },
+    {
+      "name": "Pornemby.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Pornemby_175.png"
+    },
+    {
+      "name": "StarCat.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/StarCat_175.png"
+    },
+    {
+      "name": "Temby.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Temby_175.png"
+    },
+    {
+      "name": "TembyBeta.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/TembyBeta_175.png"
+    },
+    {
+      "name": "Terminus.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Terminus_175.png"
+    },
+    {
+      "name": "Yomo.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Yomo_175.png"
+    }
+  ]
+}
