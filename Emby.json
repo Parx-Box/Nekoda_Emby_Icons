@@ -27,6 +27,10 @@
       "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF_175.png"
     },
     {
+      "name": "AWASF2",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF2_175.png"
+    },
+    {
       "name": "CC",
       "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/CC_175.png"
     },
@@ -117,6 +121,42 @@
     {
       "name": "Yomo.png",
       "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Yomo_175.png"
+    },
+    {
+      "name": "Steven.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Steven_175.png"
+    },
+    {
+      "name": "PrejuDice.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/PrejuDice_175.png"
+    },
+    {
+      "name": "Gugu.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Gugu_175.png"
+    },
+    {
+      "name": "Nya.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Nya_175.png"
+    },
+    {
+      "name": "Robo.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Robo_175.png"
+    },
+    {
+      "name": "wuming.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/wuming_175.png"
+    },
+    {
+      "name": "yingyue.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/yingyue_175.png"
+    },
+    {
+      "name": "Nanflix.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Nanflix_175.png"
+    },
+    {
+      "name": "shufu.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/shufu_175.png"
     }
   ]
 }
