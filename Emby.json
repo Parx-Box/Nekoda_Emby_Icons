@@ -27,6 +27,18 @@
       "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF_175.png"
     },
     {
+      "name": "AWA2_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWA2_175.png"
+    },
+    {
+      "name": "AWASF3_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF3_175.png"
+    },
+    {
+      "name": "AWASF4_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF4_175.png"
+    },
+    {
       "name": "AWASF2",
       "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/AWASF2_175.png"
     },
@@ -161,6 +173,34 @@
     {
       "name": "shufu.png",
       "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/shufu_175.png"
-    }
+    },
+    {
+      "name": "fenghuolun_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/fenghuolun_175.png"
+    },
+    {
+      "name": "pdx_lab_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/pdx_lab_175.png"
+    },
+    {
+      "name": "Nijigen1_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Nijigen2_175.png"
+    },
+    {
+      "name": "Nijigen2_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Nijigen2_175.png"
+    },
+    {
+      "name": "Nijigen3_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Nijigen2_175.png"
+    },
+    {
+      "name": "Ask_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/Ask_175.png"
+    },
+    {
+      "name": "SaturDay.Lite_175.png",
+      "url": "https://raw.githubusercontent.com/Parx-Box/Nekoda_Emby_Icons/main/Assets/SaturDay.Lite_175.png"
+    },
   ]
 }
