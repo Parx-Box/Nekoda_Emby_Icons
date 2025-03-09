@@ -79,6 +79,10 @@
       "url": " https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/laoda_175.png"
     },
     {
+      "name": "laoda2_175.png",
+      "url": "https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/laoda2_175.png"
+    },
+    {
       "name": "Levilde_Luminia",
       "url": " https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/Levilde_Luminia_175.png"
     },
@@ -241,6 +245,18 @@
     {
       "name": "Nebula_175.png",
       "url": "https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/Nebula_175.png"
+    },
+    {
+      "name": "bocchi_175.png",
+      "url": "https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/bocchi_175.png"
+    },
+    {
+      "name": "gcbd_175.png",
+      "url": "https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/gcbd_175.png"
+    },
+    {
+      "name": "Yurika_175.png",
+      "url": "https://cdn.jsdelivr.net/gh/Parx-Box/Nekoda_Emby_Icons@main/Assets/Yurika_175.png"
     }
   ]
 }
